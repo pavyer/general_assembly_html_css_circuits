@@ -1,0 +1,14 @@
+.header {
+  text-align: center;
+}
+
+#focal-point {
+  text-align: center;
+}
+
+.above-fold {
+  background-image: url("images/Hyperion_1.jpg");
+  background-size: cover;
+  height: 1000%;
+  width: 100%;
+}
