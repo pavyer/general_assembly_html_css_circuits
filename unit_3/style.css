@@ -3,21 +3,21 @@ body {
   
 }
 img {
-  width:400px;
+    width:400px;
 }
 .header {
-  text-align: center;
+    text-align: center;
 }
 
 #focal-point {
-  text-align: center;
+    text-align: center;
 }
 
 .above-fold {
-  background-image: url("images/Hyperion_1.jpg");
-  background-size: cover;
-  padding: 10em 0 0;
-  height: 90vh;
+    background-image: url("images/Hyperion_1.jpg");
+    background-size: cover;
+    padding: 10em 0 0;
+    height: 100vh;
 }
 em {
     font-size: 2em;
