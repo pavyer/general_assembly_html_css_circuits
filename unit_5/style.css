@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
+* {margin:0;padding:0;box-sizing:border-box;}
+
+/*Different font-family for header*/
+/*Different font-style for links*/
+/*Different font-style for paragraphs*/
+/* Use smart quotes instead of prime marks for quotations*/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 40px 80px 80px 80px;
+}
+
+img {
+    width:400px;
+}
+
+header {
+    text-align: center;
+    font-family: Bitter, serif;
+    background: #FFED74;
+}
+
+header > p {
+    font-size: 1.5em;
+}
+
+nav {
+    background: #E8C66A;
+}
+
+#focal-point {
+    text-align: center;
+}
+
+.above-fold {
+    background-image: url("images/Hyperion_1.jpg");
+    background-size: cover;
+    padding: 10em;
+    height: 100vh;
+}
+
+.above-fold a {
+    color: Cornsilk;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: Cornsilk;
+    text-align: center;
+}
+
+section {
+    padding: 5em 0;
+    background: #FFE2B8;
+}
+
+p {
+    margin-top: 1em;
+    line-height: 1.5em;
+}
+
+footer {
+    background: #FF957E;
+}
